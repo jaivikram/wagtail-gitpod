@@ -2,7 +2,7 @@
 
 Launch a ready-to-code Wagtail development environment with a single click.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/wagtail/wagtail-gitpod)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jaivikram/wagtail-gitpod)
 
 Steps:
 
@@ -22,4 +22,4 @@ Gitpod [prebuild](https://www.gitpod.io/docs/prebuilds) reduces wait time, by in
 
 Unfortunately, these prebuilds work as a cache. You could encounter a prebuild with outdated packages.
 
-If that is the case, you can [trigger a new prebuild](https://gitpod.io/#prebuild/https://github.com/wagtail/wagtail-gitpod).
+If that is the case, you can [trigger a new prebuild](https://gitpod.io/#prebuild/https://github.com/jaivikram/wagtail-gitpod).
